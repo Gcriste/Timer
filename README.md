@@ -1,0 +1,3 @@
+# Timer
+
+### Simple Timer app
