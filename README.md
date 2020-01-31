@@ -6,4 +6,4 @@
 
 ##### Copyright @GriffinCriste
 
-###### This app is still in progress
+###### This app is still a work in progress
